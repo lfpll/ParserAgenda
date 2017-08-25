@@ -1,0 +1,168 @@
+Padrão 1  - .comprimisso-horarios
+   
+    Presidência: https://www2.planalto.gov.br/acompanhe-planalto/agenda-do-presidente/agenda-do-presidente-michel-temer 
+    -------
+    Casa Civil: http://www.casacivil.gov.br/ministro/agenda-do-ministro 
+    -------
+    MINISTRO.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-ministro
+    ------
+    SE.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-secretario-executivo
+    ------
+    SDA.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-secretario-de-defesa-agropecuaria
+    ------
+    SPA.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-secretario-de-politica-agricola
+    ------
+    SMC.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-secretario-de-mobilidade-social-do-produtor-rural-e-do-cooperativismo
+    ------
+    SRI.MAPA: http://www.agricultura.gov.br/acesso-a-informacao/institucional/pasta-de-agendas-de-autoridades/agenda-do-secretario-de-relacoes-internacionais-do-agronegocio
+    ------
+    MINISTRO.MF: http://www.fazenda.gov.br/assuntos/agenda/agenda-do-ministro
+    ------
+    SAE.MF: http://www.fazenda.gov.br/assuntos/agenda/secretario-de-acompanhamento-economico/2017-05-03?month:int=5&year:int=2017
+    ------
+    SPE.MF: http://www.fazenda.gov.br/assuntos/agenda/secretario-de-politica-economica/2017-05-03?month:int=5&year:int=2017
+    ------
+    SRI.MF: http://www.fazenda.gov.br/assuntos/agenda/secretario-de-assuntos-internacionais/2017-05-03?month:int=5&year:int=2017
+
+
+PADRÃO 2 autoridade-comprimissio-inicio E FINAL
+    Ministro MDIC: 'http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=1&dia=2017-05-03  
+    --------
+    SE.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=113&dia=2017-05-03  
+    ------
+    SECEX.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=95&dia=2017-05-03
+    ------
+    CZPE.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=92&dia=2017-05-03
+    ------ 
+    SCS.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=14&dia=2017-05-03
+    ------server fora dor AR
+    SINN.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&id=13&dia=2017-05-03
+    ------ server fora dor AR
+    MINISTRO.MT: http://www.transportes.gov.br/agendas.html?view=autoridade&id=38&dia=2017-05-03
+    ------
+    SFAT.MT: http://www.transportes.gov.br/agendas.html?view=autoridade&id=36&dia=2017-05-03
+    -----
+    SDCI.MDIC: http://www.mdic.gov.br/index.php/agenda?view=autoridade&amp;dia=2017-05-03&amp;id=86
+    -----
+    MINISTRO MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&id=16
+    PADRÃO 2.1
+    SG.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-12&amp;id=2&amp;Itemid=0
+    ------
+    SGEF.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-12&amp;id=8&amp;Itemid=0
+    --------
+    SGAOM.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-03&amp;id=7&amp;Itemid=0
+    --------
+    SGAS.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-12&amp;id=10&amp;Itemid=0
+    ------
+    SGAP.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-12&amp;id=5&amp;Itemid=0
+    --------
+    SGEC.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-12&amp;id=11&amp;Itemid=0
+    ------------
+    SGAET.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-09&amp;id=4&amp;Itemid=0
+    ----------
+    CAMEX.MRE: http://www.itamaraty.gov.br/pt-BR/component/agendadirigentes/?view=autoridade&amp;dia=2017-05-10&amp;id=12&amp;Itemid=0
+    -------
+    MINISTRO.MTb: http://trabalho.gov.br/agenda-do-trabalho/agenda-ministro-do-trabalho?view=autoridade&amp;dia=2017-05-12&amp;id=8
+    -------
+    SE.MTb: http://trabalho.gov.br/agenda-do-trabalho/agenda-secretario-executivo?view=autoridade&amp;dia=2017-04-06&amp;id=54
+    ------
+    SIT.MTb: http://trabalho.gov.br/agenda-do-trabalho/agenda-secretario-de-inspecao-do-trabalho?view=autoridade&amp;dia=2017-05-12&amp;id=12
+
+Padrão 3 - Data inside HTML - asset-full-content show-asset-title
+    Ministro Cultura:  http://www.cultura.gov.br/agenda-do-ministro
+    Sec. Fomento Cultura: http://www.cultura.gov.br/agenda-secretaria-de-fomento-e-incentivo-a-cultura 
+
+Padrão 4 - Use regexp to get data from span then div
+    Defesa: http://www.defesa.gov.br/index.php/agenda-de-autoridades/agenda-do-ministro
+    
+
+Padrão 5
+
+    Link -- mme geral
+    http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_tabs1=summary&_8_month=4&_8_day=12&_8_year=2017
+
+    MINISTRO.MME: http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_tabs1=summary&_8_month=4&_8_day=2&_8_year=2017
+
+    ---------
+    SE.MME: http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_struts_action=%2Fcalendar%2Fview_event&_8_redirect=http%3A%2F%2Fwww.mme.gov.br%2Fweb%2Fguest%2Facesso-a-informacao%2Finstitucional%2Fagenda-de-autoridades%3Fp_p_id%3D8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1&_8_eventId=13542297
+    SPG.MME: http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_struts_action=%2Fcalendar%2Fview_event&_8_redirect=http%3A%2F%2Fwww.mme.gov.br%2Fweb%2Fguest%2Facesso-a-informacao%2Finstitucional%2Fagenda-de-autoridades%3Fp_p_id%3D8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1&_8_eventId=13542309
+    SEE.MME: http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_struts_action=%2Fcalendar%2Fview_event&_8_redirect=http%3A%2F%2Fwww.mme.gov.br%2Fweb%2Fguest%2Facesso-a-informacao%2Finstitucional%2Fagenda-de-autoridades%3Fp_p_id%3D8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1&_8_eventId=13542303
+    SPD.MME: http://www.mme.gov.br/web/guest/acesso-a-informacao/institucional/agenda-de-autoridades?p_p_id=8&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_8_struts_action=%2Fcalendar%2Fview_event&_8_redirect=http%3A%2F%2Fwww.mme.gov.br%2Fweb%2Fguest%2Facesso-a-informacao%2Finstitucional%2Fagenda-de-autoridades%3Fp_p_id%3D8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1&_8_eventId=13542537
+
+
+ Padrão 6
+
+    MINISTRO.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1260
+    SE.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1264
+    SAS.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1191
+    SVS.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1121
+    SCTIE.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1217
+    DAF.SCTIE.MS: http://portalsaude.saude.gov.br/index.php/cidadao/principal/agenda-das-autoridades/agenda/day.listevents/2017/05/13/-?category_fv=1285
+
+Padrão 7 --- 8 AGENDAS
+
+    ANS: http://www.ans.gov.br/externo/site_novo/agenda_autoridades/agenda.asp -----function buscarAgenda(dt_busca) 
+    {
+    var form = document.frmAgenda;
+    form.dt_atual.value = dt_busca;
+    form.submit();
+    }
+
+ 
+
+    ANVISA: (Diretor presidente + 4 diretores – site está fora do ar )
+
+PADRÃO 7 --- REGEXP
+
+    PRESIDENTE.INPI: http://www.inpi.gov.br/sobre/agenda/presidente
+    DE.INPI: http://www.inpi.gov.br/sobre/agenda/agenda/2017-05-03?month:int=5&year:int=2017
+    DM.INPI: http://www.inpi.gov.br/sobre/agenda/diretor-de-marcas/2017-05-03?month:int=5&year:int=2017
+    DP.INPI: http://www.inpi.gov.br/sobre/agenda/diretor-de-patentes/2017-05-03?month:int=5&year:int=2017
+
+PADRÃO 8 
+
+    MINISTRO.MCTIC: http://www2.mcti.gov.br/index.php/agenda-do-ministro
+
+PADRÃO 9
+    SE.MCTIC: http://www.mct.gov.br/index.php/content/view/338817/Secretaria_Executiva.html
+    PADRÃO 9.0
+    SPPPD.MCTIC: http://www.mct.gov.br/index.php/content/view/338818/Secretario_de_Politicas_e_Programas_de_Pesquisa_e_Desenvolvimento.html
+    SPI.MCTIC: http://www.mct.gov.br/index.php/content/view/338821/Secretario_de_Politica_de_Informatica.html
+    SDTI.MCTIC: http://www.mct.gov.br/index.php/content/view/338820/Secretario_de_Desenvolvimento_Tecnologico_e_Inovacao.html
+
+    PADRÃO 9.1
+     SID.MCTIC: http://www2.mcti.gov.br/index.php/imprensa/agendas/secretaria-de-inclusao-digital-sid/agenda-do-secretario-de-inclusao-digital
+ 
+PADRÃO 10
+    MINISTRO.MPOG: http://www.planejamento.gov.br/agendas-de-autoridades
+    SAIN.MPOG: http://www.planejamento.gov.br/agendas-de-autoridades/seain
+
+PADRÃO 11 
+    PRESIDENTE.EPE: http://www.epe.gov.br/acessoainformacao/Paginas/AgendaPRD.aspx
+    DEA.EPE: http://www.epe.gov.br/acessoainformacao/Paginas/agendadea.aspx
+    DEE.EPE: http://www.epe.gov.br/acessoainformacao/Paginas/agendadee.aspx
+    DGC.EPE: http://www.epe.gov.br/acessoainformacao/Paginas/agendadgc.aspx
+    DPG.EPE: http://www.epe.gov.br/acessoainformacao/Paginas/agendadpg.aspx
+
+    
+PADRÃO 12
+
+    ANTAQ: http://portal.antaq.gov.br/index.php/acesso-a-informacao/agenda-de-autoridades/
+
+    
+Padrão PDF -
+    Marinha: https://www.marinha.mil.br/sites/default/files/3-maio-2017.pdf
+Padrão 5  - ESPECIAL
+ 
+ BCB: http://www.bcb.gov.br/pt-br/#!/c/LAIAGENDA/
+----------
+offline
+
+    MINISTRO.MMA: http://mma.gov.br/component/agendadedirigentes/dirigente/18
+    SBIO.MMA: http://www.mma.gov.br/component/agendadedirigentes/dirigente/21
+    SMCF.MMA: http://www.mma.gov.br/component/agendadedirigentes/dirigente/23
+    SAIC.MMA: http://www.mma.gov.br/component/agendadedirigentes/dirigente/20
+    SRHQ: http://www.mma.gov.br/component/agendadedirigentes/dirigente/24
+   ANP: http://www.anp.gov.br/agenda-da-diretoria
+   IBAMA: http://www.ibama.gov.br/component/jumi/?view=application&ag=29&Itemid=421
+    ANEEL(Diretor Presidente + 4 diretores): http://www.aneel.gov.br/agenda-dos-agentes-publicos    

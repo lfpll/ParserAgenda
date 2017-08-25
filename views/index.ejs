@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="./login.css">
+<style>
+    body{
+        width:100%;
+    }
+        img {
+            text-align: center;
+            width:100%;
+            padding: 40px 30px 50px 30px;
+        }
+    </style>
+  <title>Agenda Parser</title>
+</head>
+
+<body>
+<div class="login-page">
+        <div class="form">
+  <form action="/dateAgenda" method="POST">
+    <input type="text" placeholder="Dia - formato 00" name="date[day]" id="disabled">
+    <input type="text" placeholder="Mês -formato 00" name="date[month]" id="disabled">
+    <input type="text" placeholder="Ano -formato 0000" name="date[year]" id="disabled">
+    <input type="submit">
+            </div>
+    </div>
+  </form>
+
+
+</body>
+</html>
