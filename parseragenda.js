@@ -13,7 +13,7 @@ app.use(express.static(__dirname + "/public"));
 app.use(bodyParser.urlencoded({extended:true}));
 app.set('view engine','ejs');
 mongoose.connect('mongodb://writer:VegVH0Dfa9nLzEse@cluster0-shard-00-00-ig3pl.mongodb.net:27017,cluster0-shard-00-01-ig3pl.mongodb.net:27017,cluster0-shard-00-02-ig3pl.mongodb.net:27017/CarOne?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin');
-//Lista of the links with the first pattern
+
 
 var headers = { 
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0',
@@ -27,7 +27,7 @@ var dateSchema = new mongoose.Schema
 	politicians: Array
 });
 var Agenda 	= mongoose.model('Agenda',dateSchema)
-
+//Lista of the links with the first pattern
 var lstPttn1 =[{
   nome: 'Ministro-chefe da Casa Civil, Eliseu Padilha',
   site: 'http://www.casacivil.gov.br/ministro/agenda-do-ministro/',
